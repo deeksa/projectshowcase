@@ -1,0 +1,17 @@
+.image1 {
+  height: 20vh;
+}
+.container5 {
+  height: 20vh;
+  width: 100vw;
+  background-color: #cbd5e1;
+}
+.list2 {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.container17 {
+  width: 100vw;
+  color: black;
+}
